@@ -1,3 +1,2 @@
-run:
-  static:
-    dir: web
+scripts:
+  runCommand: npx --yes serve -s web -l $PORT

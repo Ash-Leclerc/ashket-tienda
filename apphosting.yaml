@@ -1,2 +1,2 @@
 scripts:
-  runCommand: npx --yes serve -s web -l $PORT
+  runCommand: npm run start

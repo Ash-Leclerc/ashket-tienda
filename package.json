@@ -1,0 +1,10 @@
+{
+  "name": "ashket-tienda",
+  "private": true,
+  "dependencies": {
+    "serve": "^14.2.4"
+  },
+  "scripts": {
+    "start": "serve -s web -l $PORT"
+  }
+}
